@@ -14,10 +14,10 @@ git은 2005년에 리누스 토발즈가 화가나서 일주일 만에 만든 �
 - Remote
 - 시각적인 자료로 Local과 Remote 개념 이해 중요
 
-![Git-schematic-1(./git-01.png) 
-<img src="./git-01.png" width="100px" height="50px" title="Git-schematic-1"></img>
-![Git-schematic-2(./git-02.png) 
-<img src="./git-02.png" width="100px" height="50px" title="Git-schematic-2"></img>
+![Git-schematic-1](./git-01.png) 
+<img src="./git-01.png" width="500px" height="200px" title="Git-schematic-1"></img>
+![Git-schematic-2](./git-02.png) 
+<img src="./git-02.png" width="500px" height="200px" title="Git-schematic-2"></img>
 
 ## 소감
 git과 github이라는 도구가 있다는 것은 알고 있었지 만 오늘 처음으로 연동해서 사용하는 방법을 학습했음. 향후 자주 사용하게 될 것으로 기대하고 있음. 
